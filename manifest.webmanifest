@@ -1,1 +1,12 @@
-{"name":"text4insta","short_name":"text4insta","start_url":"/","display":"standalone","background_color":"#ffffff","lang":"ru","scope":"/"}
+{
+    "name": "text4insta",
+    "short_name": "text4insta",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#3f51b5",
+    "description": "Эта кнопка автоматически добавит невидимый пробел (прозрачный символ) и разобьёт текст на абзацы. Всё в 1 клик. Бот не нужен :)",
+    "lang": "ru",
+    "scope": "/"
+  }
+  
